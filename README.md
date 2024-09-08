@@ -1,4 +1,4 @@
-# News App
+# Quiz App
 
 A simple cross-platform quiz application using Flutter and Dart.
 
